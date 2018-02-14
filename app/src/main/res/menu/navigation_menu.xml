@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/myprofile"
+        android:title="My Profile"
+        android:icon="@drawable/ic_person">
+    </item>
+
+    <item
+        android:id="@+id/mysettings"
+        android:title="settings"
+        android:icon="@drawable/ic_settings">
+    </item>
+
+    <item
+        android:id="@+id/mycheck"
+        android:title="check"
+        android:icon="@drawable/ic_check">
+    </item>
+    <item
+        android:id="@+id/myprofile1"
+        android:title="My Profile"
+        android:icon="@drawable/ic_person">
+    </item>
+
+    <item
+        android:id="@+id/mysettings1"
+        android:title="settings"
+        android:icon="@drawable/ic_settings">
+    </item>
+
+    <item
+        android:id="@+id/mycheck1"
+        android:title="check"
+        android:icon="@drawable/ic_check">
+    </item>
+    <item
+        android:id="@+id/myprofile2"
+        android:title="My Profile"
+        android:icon="@drawable/ic_person">
+    </item>
+
+    <item
+        android:id="@+id/mysettings2"
+        android:title="settings"
+        android:icon="@drawable/ic_settings">
+    </item>
+
+    <item
+        android:id="@+id/mycheck2"
+        android:title="check"
+        android:icon="@drawable/ic_check">
+    </item>
+
+
+</menu>
